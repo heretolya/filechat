@@ -12,8 +12,8 @@ When you give `filechat` one or more PDF files:
 When you ask a question:
 1. Your question is turned into an embedding
 2. Relevant chunks collected using similarity search
-3. Thos chunks along with your question sent to LLM
-4. LLM generates an answer based on that context
+3. Those chunks along with your question sent to Ollama
+4. Ollama generates an answer based on that context
 
 ## Usage
 
