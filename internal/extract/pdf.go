@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"filechat/pkg/poppler"
+	"filechat/internal/poppler"
 )
 
 func PDF(file string) (string, error) {
